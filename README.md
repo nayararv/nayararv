@@ -27,6 +27,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 🎯 Busco atuar como Analista de Dados Júnior, contribuindo com análises consistentes, organização de dados e geração de insights relevantes para o negócio.
 
+
 <br>
 
 ## 🌐 Conecte-se comigo
@@ -55,12 +56,22 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 ## 📊 Projetos em Destaque
 
-- 📊 **Dashboard da Balança Comercial Brasileira – Power BI**  
-  🔗 https://github.com/nayararv/powerbi-dash-balanca-comercial
+### Dashboard – Balança Comercial Brasileira
 
-- 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nayararv/powerbi-dash-balanca-comercial/main/imagem_dashboard_balaca.png" width="900"/>
+</p>
 
-- 🗄 Projeto de Análise com SQL – Em desenvolvimento  
+<p align="center">
+  <a href="https://github.com/nayararv/powerbi-dash-balanca-comercial">
+    <img src="https://img.shields.io/badge/📊 Ver%20Projeto%20Completo-Visualizar%20Case-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+- 📈 **Dashboard de Vendas (Power BI)** – Em desenvolvimento  
+- 🗄 **Projeto de Análise com SQL** – Em desenvolvimento  
 
 <br>
 
