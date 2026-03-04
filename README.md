@@ -12,17 +12,20 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou Analista de Dados com foco em Business Intelligence, análise estratégica e visualização de dados.  
-Formada em Engenharia Florestal, desenvolvi forte pensamento analítico, organização e capacidade de resolução de problemas.
+Sou Analista de Dados Júnior com foco em análise, modelagem e visualização de dados para suporte à tomada de decisão.
 
-Atualmente aprimorando habilidades em:
+Possuo formação em Engenharia Florestal, o que fortaleceu minha capacidade analítica, organização e resolução estruturada de problemas.
 
-- SQL avançado  
-- DAX e modelagem de dados  
-- Otimização de consultas  
-- Estruturação de projetos de dados  
+Atuo com:
 
-🎯 **Objetivo profissional:** Evoluir para Especialista em Business Intelligence.
+- SQL para extração e análise de dados  
+- Modelagem de dados (modelo estrela)  
+- Power BI e DAX para construção de dashboards  
+- Estruturação e documentação de projetos de dados  
+
+Tenho experiência na construção de dashboards analíticos e executivos, transformando dados brutos em informações estratégicas.
+
+🎯 Busco atuar como Analista de Dados Júnior, contribuindo com análises consistentes, organização de dados e geração de insights relevantes para o negócio.
 
 <br>
 
