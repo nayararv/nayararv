@@ -68,11 +68,11 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 <p align="center">
   <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/nayararv?style=for-the-badge&color=2ea44f&label=Estrelas"/>
+    <img src="https://img.shields.io/github/stars/nayararv?style=for-the-badge&color=722e43&label=Estrelas"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nayararv?tab=followers">
-    <img src="https://img.shields.io/github/followers/nayararv?style=for-the-badge&color=0969da&label=Seguidores"/>
+    <img src="https://img.shields.io/github/followers/nayararv?style=for-the-badge&color=722e43&label=Seguidores"/>
   </a>
 </p>
 
