@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Power+BI+|+SQL+|+DAX+|+ETL;Transformando+dados+em+insights+estratégicos" />
 </p>
 
+<p align="center">
+  <b>Analista de Dados Júnior | SQL | Power BI | Modelagem de Dados</b>
+</p>
+
 <br>
 
 ## 👩‍💻 Sobre mim
