@@ -40,15 +40,28 @@
 
 ### 🤖 LINGUAGENS E TECNOLOGIAS
 
-<!-- Ícone do MySQL -->
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
+<!-- Ícones MySQL e Python lado a lado com espaçamento maior -->
+<p align="left">
+  <img 
+      alt="MySQL"
+      title="MySQL" 
+      width="80px" 
+      style="margin-right: 50px; display:inline-block;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img 
+      alt="Python"
+      title="Python" 
+      width="60px" 
+      style="margin-right: 50px; display:inline-block;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img 
+      alt="Power BI"
+      title="Power BI" 
+      width="38px" 
+      style="margin-right: 50px;" 
+      src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+</p>
+
 
 
     
