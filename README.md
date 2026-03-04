@@ -2,26 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nayara+Rocha+Vasselechen;I+am+a+Forest+Engineer+and+work+as+a+Data+Analyst.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<!-- 🔗 Seção de métricas do GitHub -->
-<p align="center">
-  <!-- Badge de estrelas do GitHub -->
-  <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/nayararv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
-    />
-  </a>
-
-  <!-- Badge de seguidores do GitHub -->
-  <a href="https://github.com/nayararv?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/nayararv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
-    />
-  </a>
-</p>
 
 <!-- Linha separadora -->
 <hr/>
@@ -64,6 +44,9 @@
 <!-- Linha separadora -->
 <hr/>
 
+
+
+
 <!-- Contador de visitantes no final -->
 <div align="center">
   <br>
@@ -73,6 +56,27 @@
   </p>
   <br>
 </div>
+
+<!-- 🔗 Seção de métricas do GitHub -->
+<p align="center">
+  <!-- Badge de estrelas do GitHub -->
+  <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/nayararv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
+    />
+  </a>
+
+  <!-- Badge de seguidores do GitHub -->
+  <a href="https://github.com/nayararv?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/nayararv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
+    />
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=footer"/> 
 
