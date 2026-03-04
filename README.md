@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Power+BI+|+SQL+|+DAX+|+ETL;Transformando+dados+em+insights+estratégicos" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Transformando+dados+em+insights+estratégicos" />
 </p>
 
 <p align="center">
