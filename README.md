@@ -36,8 +36,6 @@
   </a>
 </p>
 
-<!-- Linha separadora -->
-<hr/>
 
 ### 🤖 LINGUAGENS E TECNOLOGIAS
 
