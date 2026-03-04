@@ -53,22 +53,12 @@
       width="70px" 
       style="margin-right: 50px; vertical-align:middle;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-</p>
-
-<!-- Linha 2: Power BI e Excel -->
-<p align="left">
   <img 
       alt="Power BI"
       title="Power BI" 
       width="45px" 
       style="margin-right: 50px; vertical-align:middle;" 
       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
-  <img 
-      alt="Excel"
-      title="Excel" 
-      width="45px" 
-      style="margin-right: 50px; vertical-align:middle;" 
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Microsoft_Office_Excel_2013_logo.svg"/>
 </p>
 
 <!-- Linha separadora -->
