@@ -1,80 +1,84 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nayara+Rocha+Vasselechen;I+am+a+Forest+Engineer+and+work+as+a+Data+Analyst.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=28&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Power+BI+|+SQL+|+DAX+|+ETL;Transformando+dados+em+insights+estratégicos" />
+</p>
 
+<br>
 
-<!-- Linha separadora -->
-<hr/>
+## 👩‍💻 Sobre mim
 
-### 🌐 REDES SOCIAIS
+Sou Analista de Dados com foco em Business Intelligence, análise estratégica e visualização de dados.  
+Formada em Engenharia Florestal, desenvolvi forte pensamento analítico, organização e capacidade de resolução de problemas.
 
-<!-- 🔗 Seção de ícones sociais -->
-<p align="left">
-  <!-- Ícone do LinkedIn -->
+Atualmente aprimorando habilidades em:
+
+- SQL avançado  
+- DAX e modelagem de dados  
+- Otimização de consultas  
+- Estruturação de projetos de dados  
+
+🎯 **Objetivo profissional:** Evoluir para Especialista em Business Intelligence.
+
+<br>
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nayararv/">
-    <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
 </p>
 
+<br>
 
-### 🤖 LINGUAGENS E TECNOLOGIAS
+## 🚀 Tecnologias e Ferramentas
 
-<!-- Linha 1: MySQL e Python -->
-<p align="left">
-  <img 
-      alt="MySQL"
-      title="MySQL" 
-      width="65px" 
-      style="margin-right: 50px; vertical-align:middle;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img 
-      alt="Python"
-      title="Python" 
-      width="70px" 
-      style="margin-right: 50px; vertical-align:middle;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
-  <img 
-      alt="Power BI"
-      title="Power BI" 
-      width="45px" 
-      style="margin-right: 50px; vertical-align:middle;" 
-      src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+<p align="center">
+  <img alt="MySQL" title="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Python" title="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Power BI" title="Power BI" width="50px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Git" title="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-<!-- Linha separadora -->
-<hr/>
+<br>
 
-<!-- Contador de visitantes no final -->
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/nayararv/count.svg" />
-  </p>
-  <br>
-</div>
+## 📊 Projetos em Destaque
 
-<!-- 🔗 Seção de métricas do GitHub -->
+- 📈 Dashboard de Vendas (Power BI) – Em breve  
+- 💰 Dashboard Financeiro (Power BI) – Em breve  
+- 🗄 Projeto de Análise com SQL – Em desenvolvimento  
+
+<br>
+
+## 📈 Estatísticas
+
 <p align="center">
-  <!-- Badge de estrelas do GitHub -->
   <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
     <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/nayararv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
     />
   </a>
 
-  <!-- Badge de seguidores do GitHub -->
+  &nbsp;&nbsp;
+
   <a href="https://github.com/nayararv?tab=followers">
     <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/nayararv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
     />
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=footer"/> 
+<br>
 
-    
+<p align="center">
+  <b>Contador de visitantes</b><br><br>
+  <img src="https://profile-counter.glitch.me/nayararv/count.svg" />
+</p>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=footer"/>
