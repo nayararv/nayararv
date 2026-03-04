@@ -59,7 +59,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 ### Dashboard – Balança Comercial Brasileira
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nayararv/powerbi-dash-balanca-comercial/main/imagem_dashboard_balaca.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/nayararv/powerbi-dash-balanca-comercial/main/NOME-EXATO-DA-IMAGEM.png" width="900"/>
 </p>
 
 <p align="center">
