@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👩‍💻 Nayara Rocha Vasselechen
 
-<!--
-**nayararv/nayararv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados Júnior | Power BI | SQL | DAX | ETL
 
-Here are some ideas to get you started:
+🎯 Foco em:
+- Dashboards executivos
+- Modelagem de dados
+- Grandes volumes de dados
+- Transformação de dados com SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projetos em destaque:
+- Dashboard da Balaça Comercial Barsileira
+
+📚 Atualmente estudando:
+- SQL
+- Python
+- Performance e otimização
