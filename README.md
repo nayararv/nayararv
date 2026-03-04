@@ -12,7 +12,7 @@
 <p align="left">
   <!-- Ícone do LinkedIn -->
   <a href="https://www.linkedin.com/in/nayararv/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
 </p>
 
@@ -24,15 +24,15 @@
   <img 
       alt="MySQL"
       title="MySQL" 
-      width="80px" 
+      width="65px" 
       style="margin-right: 50px; vertical-align:middle;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img 
       alt="Python"
       title="Python" 
       width="70px" 
       style="margin-right: 50px; vertical-align:middle;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
   <img 
       alt="Power BI"
       title="Power BI" 
