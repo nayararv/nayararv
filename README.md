@@ -1,6 +1,6 @@
 # 👩‍💻 Nayara Rocha Vasselechen
 
-Analista de Dados Júnior | Power BI | SQL | DAX | ETL
+Engenheira Florestal | Analista de Dados Júnior | Power BI | SQL | DAX | ETL
 
 🎯 Foco em:
 - Dashboards executivos
