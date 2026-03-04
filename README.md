@@ -44,15 +44,12 @@
 <!-- Linha separadora -->
 <hr/>
 
-
-
-
 <!-- Contador de visitantes no final -->
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{nayararv}/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/nayararv/count.svg" />
   </p>
   <br>
 </div>
