@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=28&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Power+BI+|+SQL+|+DAX+|+ETL;Transformando+dados+em+insights+estratégicos" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Power+BI+|+SQL+|+DAX+|+ETL;Transformando+dados+em+insights+estratégicos" />
 </p>
 
 <br>
@@ -35,40 +35,37 @@ Atualmente aprimorando habilidades em:
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img alt="MySQL" title="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Python" title="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Python" title="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Power BI" title="Power BI" width="50px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+  <img alt="Power BI" title="Power BI" width="45px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Git" title="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
 <br>
 
 ## 📊 Projetos em Destaque
 
-- 📈 Dashboard de Vendas (Power BI) – Em breve  
-- 💰 Dashboard Financeiro (Power BI) – Em breve  
+- 📊 **Dashboard da Balança Comercial Brasileira – Power BI**  
+  🔗 https://github.com/nayararv/powerbi-dash-balanca-comercial
+
+- 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento  
+
 - 🗄 Projeto de Análise com SQL – Em desenvolvimento  
 
 <br>
 
-## 📈 Estatísticas
+## 📈 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
-    <img 
-      src="https://custom-icon-badges.demolab.com/github/stars/nayararv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
-    />
+    <img src="https://img.shields.io/github/stars/nayararv?style=for-the-badge&color=2ea44f&label=Estrelas"/>
   </a>
-
   &nbsp;&nbsp;
-
   <a href="https://github.com/nayararv?tab=followers">
-    <img 
-      src="https://custom-icon-badges.demolab.com/github/followers/nayararv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
-    />
+    <img src="https://img.shields.io/github/followers/nayararv?style=for-the-badge&color=0969da&label=Seguidores"/>
   </a>
 </p>
 
