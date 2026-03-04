@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nayara+Rocha+Vasselechen;I+am+a+Forest+Engineer+and+work+as+a+Data+Analyst.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
 
 <!-- 🔗 Seção de métricas do GitHub -->
 <p align="center">
@@ -38,6 +36,9 @@
   </a>
 </p>
 
+<!-- Linha separadora -->
+<hr/>
+
 ### 🤖 LINGUAGENS E TECNOLOGIAS
 
 <!-- Linha 1: MySQL e Python -->
@@ -64,10 +65,27 @@
       width="45px" 
       style="margin-right: 50px; vertical-align:middle;" 
       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+  <img 
+      alt="Excel"
+      title="Excel" 
+      width="45px" 
+      style="margin-right: 50px; vertical-align:middle;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Microsoft_Office_Excel_2013_logo.svg"/>
 </p>
 
 <!-- Linha separadora -->
 <hr/>
 
+<!-- Contador de visitantes no final -->
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{nayararv}/count.svg" />
+  </p>
+  <br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=footer"/> 
 
     
