@@ -40,26 +40,36 @@
 
 ### 🤖 LINGUAGENS E TECNOLOGIAS
 
-<!-- Ícones MySQL e Python lado a lado com espaçamento maior -->
+<!-- Linha 1: MySQL e Python -->
 <p align="left">
   <img 
       alt="MySQL"
       title="MySQL" 
       width="80px" 
-      style="margin-right: 50px; display:inline-block;" 
+      style="margin-right: 50px; display:inline-block; vertical-align:middle;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img 
       alt="Python"
       title="Python" 
-      width="60px" 
-      style="margin-right: 50px; display:inline-block;" 
+      width="80px" 
+      style="margin-right: 50px; display:inline-block; vertical-align:middle;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+</p>
+
+<!-- Linha 2: Power BI e Excel -->
+<p align="left">
   <img 
       alt="Power BI"
       title="Power BI" 
-      width="38px" 
-      style="margin-right: 50px;" 
+      width="50px" 
+      style="margin-right: 50px; display:inline-block; vertical-align:middle;" 
       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+  <img 
+      alt="Excel"
+      title="Excel" 
+      width="70px" 
+      style="margin-right: 50px; display:inline-block; vertical-align:middle;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg"/>
 </p>
 
 
