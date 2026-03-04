@@ -37,3 +37,18 @@
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   </a>
 </p>
+
+### 🤖 LINGUAGENS E TECNOLOGIAS
+
+<!-- Ícone do MySQL -->
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+
+    
