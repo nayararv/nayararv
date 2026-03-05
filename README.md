@@ -2,7 +2,7 @@
 <!-- HEADER ANIMADO (onda superior decorativa)            -->
 <!-- Você pode alterar a cor em: color=cc7f91             -->
 <!-- ===================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a8e59&height=120&section=header"/>
 
 
 <!-- ===================================================== -->
@@ -87,14 +87,14 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- Botão personalizado com sua cor #722e43 -->
 <p align="center">
   <a href="https://github.com/nayararv/powerbi-dash-balanca-comercial">
-    <img src="https://img.shields.io/badge/📊%20Ver%20Projeto%20Completo-722e43?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📊%20Ver%20Projeto%20Completo-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
 <!-- Linha fina separadora personalizada -->
-<hr style="border: 0.6px solid #722e43; width: 70%;">
+<hr style="border: 0.6px solid #2a8e59; width: 70%;">
 
 <br>
 
@@ -110,11 +110,11 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 <p align="center">
   <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/nayararv?style=for-the-badge&color=722e43&label=Estrelas"/>
+    <img src="https://img.shields.io/github/stars/nayararv?style=for-the-badge&color=2a8e59&label=Estrelas"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nayararv?tab=followers">
-    <img src="https://img.shields.io/github/followers/nayararv?style=for-the-badge&color=722e43&label=Seguidores"/>
+    <img src="https://img.shields.io/github/followers/nayararv?style=for-the-badge&color=2a8e59&label=Seguidores"/>
   </a>
 </p>
 
@@ -133,4 +133,4 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- ===================================================== -->
 <!-- FOOTER ONDULADO                                       -->
 <!-- ===================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc7f91&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a8e59&height=120&section=footer"/>
