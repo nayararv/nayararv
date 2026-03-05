@@ -10,7 +10,7 @@
 <!-- Você pode alterar frases em: lines=                  -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+Júnior;Transformando+dados+em+insights+estratégicos" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=eadfdb&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Nayara+Rocha+Vasselechen;Analista+de+Dados+e+Engenheira+Floretsal;Transformando+dados+em+insights+estratégicos" />
 </p>
 
 <!-- Headline profissional -->
