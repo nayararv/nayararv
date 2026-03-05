@@ -111,6 +111,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
+
   <a href="https://github.com/nayararv?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/nayararv?style=for-the-badge&color=2a8e59&label=Estrelas"/>
   </a>
@@ -118,16 +119,9 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
   <a href="https://github.com/nayararv?tab=followers">
     <img src="https://img.shields.io/github/followers/nayararv?style=for-the-badge&color=2a8e59&label=Seguidores"/>
   </a>
-</p>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=nayararv&color=2a8e59&style=for-the-badge&label=Visitantes"/>
 
-<br>
-
-<!-- ===================================================== -->
-<!-- CONTADOR DE VISITANTES                                -->
-<!-- ===================================================== -->
-<p align="center">
-  <b>Contador de visitantes</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=nayararv&color=2a8e59&style=for-the-badge" />
 </p>
 
 <br>
