@@ -97,11 +97,12 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 <!-- Linha fina separadora personalizada -->
 <hr style="border: 0.6px solid #2a8e59; width: 70%;">
-
 <br>
 
-- 📈 **Dashboard de Vendas (Power BI)** – Em desenvolvimento  
-- 🗄 **Projeto de Análise com SQL** – Em desenvolvimento  
+### 📊 🗄 Projeto de Análise de vendas com SQL
+
+### 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento
+
 
 <br>
 
