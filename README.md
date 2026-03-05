@@ -127,7 +127,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- ===================================================== -->
 <p align="center">
   <b>Contador de visitantes</b><br><br>
-  <img src="https://profile-counter.glitch.me/nayararv/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=nayararv&color=2a8e59&style=for-the-badge" />
 </p>
 
 <br>
