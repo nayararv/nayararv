@@ -70,7 +70,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
   <img alt="Power BI" title="Power BI" width="45px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img alt="GitHub" title="GitHub" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="50px"src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"/>
 </p>
 
 <br>
@@ -137,3 +137,4 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- FOOTER ONDULADO                                       -->
 <!-- ===================================================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a8e59&height=120&section=footer"/>
+
