@@ -63,11 +63,14 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <p align="center">
   <img alt="MySQL" title="MySQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img alt="Python" title="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img alt="Power BI" title="Power BI" width="45px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+  <img alt="GitHub" title="GitHub" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 <br>
