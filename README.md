@@ -100,9 +100,21 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <br>
 
 ### 📊 🗄 Projeto de Análise de vendas com SQL
+<p align="center">
+  <a href="https://github.com/nayararv/sql-analise-de-vendas">
+    <img src="https://img.shields.io/badge/🗄️%20Ver%20Projeto%20SQL-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Linha fina separadora personalizada -->
+<hr style="border: 0.6px solid #2a8e59; width: 70%;">
+<br>
 
 ### 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento
 
+<!-- Linha fina separadora personalizada -->
+<hr style="border: 0.6px solid #2a8e59; width: 70%;">
+<br>
 
 <br>
 
