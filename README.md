@@ -70,7 +70,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
   <img alt="Power BI" title="Power BI" width="45px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img alt="GitHub" title="GitHub" width="55px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  <img alt="GitHub" title="GitHub" width="55px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 
 <br>
 
