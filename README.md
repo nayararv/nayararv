@@ -79,7 +79,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- ===================================================== -->
 ## 📊 Projetos em Destaque
 
-### Dashboard – Balança Comercial Brasileira
+### 📈 Dashboard – Balança Comercial Brasileira
 
 <p align="center">
   <img src="https://github.com/nayararv/powerbi-dash-balanca-comercial/blob/main/images/capa_projeto_powerbi.png" width="100%"/>
@@ -93,7 +93,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 <br>
 
-### 📊 🗄 Projeto de Análise de vendas com SQL
+### 🗄 Projeto de Análise de vendas com SQL
 
 <p align="center">
   <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="100%"/>
