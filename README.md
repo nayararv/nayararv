@@ -114,7 +114,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 </p>
 
 <p align="center">
-  <a href="https://github.com/nayararv/sql-analise-de-vendas">
+  <a href="https://github.com/nayararv/powerbi-dash-vendas-comercial-">
     <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
