@@ -100,6 +100,12 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <br>
 
 ### 📊 🗄 Projeto de Análise de vendas com SQL
+
+<!-- Imagem de capa do projeto de SQL (está dentro da pasta images do repositório do projeto) -->
+<p align="center">
+  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="900%"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/nayararv/sql-analise-de-vendas">
     <img src="https://img.shields.io/badge/🗄️%20Ver%20Projeto%20SQL-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
