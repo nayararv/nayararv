@@ -121,7 +121,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 <!-- Imagem de capa do dashboard de vendas (está dentro da pasta images do repositório do projeto) -->
 <p align="center">
-  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="900%"/>
+  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_powerbi.png" width="900%"/>
 </p>
 
 <!-- Botão personalizado com sua cor #722e43 -->
