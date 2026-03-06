@@ -15,7 +15,7 @@
 
 <!-- Headline profissional -->
 <p align="center">
-  <b>Analista de Dados Júnior | SQL | Power BI | Modelagem de Dados</b>
+  <b>Analista de Dados | SQL | Power BI | Modelagem de Dados</b>
 </p>
 
 <br>
