@@ -106,6 +106,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
   <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="900%"/>
 </p>
 
+<!-- Botão personalizado com sua cor #722e43 -->
 <p align="center">
   <a href="https://github.com/nayararv/sql-analise-de-vendas">
     <img src="https://img.shields.io/badge/🗄️%20Ver%20Projeto%20SQL-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
@@ -117,6 +118,18 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <br>
 
 ### 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento
+
+<!-- Imagem de capa do dashboard de vendas (está dentro da pasta images do repositório do projeto) -->
+<p align="center">
+  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="900%"/>
+</p>
+
+<!-- Botão personalizado com sua cor #722e43 -->
+<p align="center">
+  <a href="https://github.com/nayararv/sql-analise-de-vendas">
+    <img src="https://img.shields.io/badge/🗄️%20Ver%20Dashboard%20-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <!-- Linha fina separadora personalizada -->
 <hr style="border: 0.6px solid #2a8e59; width: 70%;">
