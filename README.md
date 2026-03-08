@@ -15,7 +15,7 @@
 
 <!-- Headline profissional -->
 <p align="center">
-  <b>Analista de Dados | SQL | Power BI | Modelagem de Dados | ETL | Data Analysis | Data Visualization | Business Intelligence</b>
+   <b>Analista de Dados | SQL | Power BI | Modelagem de Dados | ETL | Data Analysis | Data Visualization | Business Intelligence</b>
 </p>
 
 <br>
