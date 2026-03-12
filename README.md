@@ -61,16 +61,19 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img alt="MySQL" title="MySQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img alt="Python" title="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img alt="Power BI" title="Power BI" width="45px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@main/SVG/Power-BI.svg" width="60" height="60" alt="Power BI"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img alt="GitHub" title="GitHub" width="55px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub"/>
+
+</p>
 
 <br>
 
