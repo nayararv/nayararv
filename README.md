@@ -25,21 +25,23 @@
 <!-- ===================================================== -->
 ## 👩‍💻 Sobre mim
 
+Sou Analista de Dados com foco em **análise, modelagem e visualização de dados**, transformando dados brutos em informações estratégicas para apoio à tomada de decisão.
 
-Sou Analista de Dados Júnior com foco em análise, modelagem e visualização de dados para suporte à tomada de decisão.
+Possuo formação em **Engenharia Florestal**, o que fortaleceu minha capacidade analítica, organização e abordagem estruturada na resolução de problemas complexos.
 
-Possuo formação em Engenharia Florestal, o que fortaleceu minha capacidade analítica, organização e resolução estruturada de problemas.
+Atuo no desenvolvimento de **projetos de análise de dados e Business Intelligence**, desde a estruturação da base de dados até a construção de dashboards analíticos.
 
 ### 🔎 Atuação Técnica
 
-- SQL para extração e análise de dados  
-- Modelagem de dados (modelo estrela)  
-- Power BI e DAX para construção de dashboards  
-- Estruturação e documentação de projetos de dados  
+- **SQL (MySQL)** para extração, transformação e análise de dados  
+- **Modelagem de dados** e organização de estruturas analíticas (modelo estrela)  
+- **Power BI e DAX** para desenvolvimento de dashboards interativos e indicadores de desempenho  
+- **Integração e preparação de dados** para análise  
+- **Estruturação e documentação de projetos de dados em GitHub**
 
-Tenho experiência na construção de dashboards analíticos e executivos, transformando dados brutos em informações estratégicas.
+Tenho experiência na construção de **dashboards analíticos e executivos**, estruturando modelos de dados e transformando informações em **insights que apoiam análises de desempenho e tomada de decisão**.
 
-🎯 Busco contribuir com análises consistentes, organização de dados e geração de insights relevantes para o negócio.
+🎯 Busco contribuir com **organização de dados, análises consistentes e geração de insights relevantes**, apoiando processos analíticos e estratégicos dentro das organizações.
 
 <br>
 
