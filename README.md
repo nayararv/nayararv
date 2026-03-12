@@ -79,18 +79,19 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- ===================================================== -->
 ## 📊 Projetos em Destaque
 
-### 📈 Dashboard – Balança Comercial Brasileira
+### 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento
 
 <p align="center">
-  <img src="https://github.com/nayararv/powerbi-dash-balanca-comercial/blob/main/images/capa_projeto_powerbi.png" width="100%"/>
+  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_powerbi.png" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nayararv/powerbi-dash-balanca-comercial">
+  <a href="https://github.com/nayararv/powerbi-dash-vendas-comercial-">
     <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+<hr style="border: 0.6px solid #2a8e59; width: 70%;">
 <br>
 
 ### 🗄 Projeto de Análise de vendas com SQL
@@ -107,20 +108,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 
 <br>
 
-### 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento
 
-<p align="center">
-  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_powerbi.png" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nayararv/powerbi-dash-vendas-comercial-">
-    <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<hr style="border: 0.6px solid #2a8e59; width: 70%;">
-<br>
 
 <!-- ===================================================== -->
 <!-- ESTATÍSTICAS                                          -->
