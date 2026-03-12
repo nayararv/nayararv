@@ -79,7 +79,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
 <!-- ===================================================== -->
 ## 📊 Projetos em Destaque
 
-### 📈 Dashboard de Vendas (Power BI) – Em desenvolvimento
+### 📈 Dashboard de Vendas (Power BI)
 
 <p align="center">
   <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_powerbi.png" width="100%"/>
