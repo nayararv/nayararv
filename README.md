@@ -15,7 +15,7 @@
 
 <!-- Headline profissional -->
 <p align="center">
-   <b>Analista de Dados Júnior | SQL | Power BI | Modelagem de Dados | ETL | Data Analysis | Data Visualization | Business Intelligence</b>
+   <b>Data Analyst | SQL | Power BI | Data Modeling | Business Intelligence</b>
 </p>
 
 <br>
