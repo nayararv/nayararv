@@ -25,6 +25,7 @@
 <!-- ===================================================== -->
 ## 👩‍💻 Sobre mim
 
+
 Sou Analista de Dados Júnior com foco em análise, modelagem e visualização de dados para suporte à tomada de decisão.
 
 Possuo formação em Engenharia Florestal, o que fortaleceu minha capacidade analítica, organização e resolução estruturada de problemas.
@@ -94,8 +95,7 @@ Tenho experiência na construção de dashboards analíticos e executivos, trans
   </a>
 </p>
 
-<hr style="border: 0.6px solid #2a8e59; width: 70%;">
-<br>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### 🗄 Projeto de Análise de vendas com SQL
 
