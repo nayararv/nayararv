@@ -25,23 +25,32 @@
 <!-- ===================================================== -->
 ## 👩‍💻 Sobre mim
 
-Sou Analista de Dados com foco em **análise, modelagem e visualização de dados**, transformando dados brutos em informações estratégicas para apoio à tomada de decisão.
+Sou Analista de Dados com foco em **análise, modelagem e visualização de dados**, transformando dados brutos em informações estratégicas para apoiar a tomada de decisão.
 
 Possuo formação em **Engenharia Florestal**, o que fortaleceu minha capacidade analítica, organização e abordagem estruturada na resolução de problemas complexos.
 
-Atuo no desenvolvimento de **projetos de análise de dados e Business Intelligence**, desde a estruturação da base de dados até a construção de dashboards analíticos.
+Atuo no desenvolvimento de **projetos de análise de dados e Business Intelligence**, desde a estruturação das bases em SQL até a construção de dashboards analíticos em Power BI.
 
-### 🔎 Atuação Técnica
+Tenho experiência na construção de **dashboards analíticos e executivos**, estruturando modelos de dados e transformando dados em insights que apoiam análises de desempenho e a tomada de decisão.**.
 
-- **SQL (MySQL)** para extração, transformação e análise de dados  
-- **Modelagem de dados** e organização de estruturas analíticas (modelo estrela)  
-- **Power BI e DAX** para desenvolvimento de dashboards interativos e indicadores de desempenho  
-- **Integração e preparação de dados** para análise  
-- **Estruturação e documentação de projetos de dados em GitHub**
+---
 
-Tenho experiência na construção de **dashboards analíticos e executivos**, estruturando modelos de dados e transformando informações em **insights que apoiam análises de desempenho e tomada de decisão**.
+### 📊 Especialidades
 
-🎯 Busco contribuir com **organização de dados, análises consistentes e geração de insights relevantes**, apoiando processos analíticos e estratégicos dentro das organizações.
+- Análise de Dados  
+- Business Intelligence  
+- Modelagem de Dados  
+- Data Visualization  
+- Análise de Performance de Negócio  
+
+---
+
+### 🎯 Foco de atuação
+
+- Estruturação de bases de dados para análise  
+- Construção de modelos analíticos  
+- Desenvolvimento de dashboards executivos  
+- Transformação de dados em insights para tomada de decisão
 
 <br>
 
@@ -85,7 +94,8 @@ Tenho experiência na construção de **dashboards analíticos e executivos**, e
 <!-- ===================================================== -->
 ## 📊 Projetos em Destaque
 
-### 📈 Dashboard de Vendas (Power BI)
+### 📈 Dashboard Estratégico de Vendas (Power BI)
+Projeto de Business Intelligence desenvolvido para análise de desempenho de vendas, utilizando modelagem de dados e visualização interativa em Power BI.
 
 <p align="center">
   <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_powerbi.png" width="100%"/>
@@ -99,7 +109,8 @@ Tenho experiência na construção de **dashboards analíticos e executivos**, e
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
-### 🗄 Projeto de Análise de vendas com SQL
+### 🗄 Projeto de Análise de vendas com SQL (MySQL)
+Projeto de análise de dados de vendas com SQL, incluindo modelagem de dados, criação de consultas analíticas e geração de insights de negócio.
 
 <p align="center">
   <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="100%"/>
