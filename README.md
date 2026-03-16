@@ -98,7 +98,7 @@ Tenho experiência na construção de **dashboards analíticos e executivos**, e
 Projeto de Business Intelligence desenvolvido para análise de desempenho de vendas, utilizando modelagem de dados e visualização interativa em Power BI.
 
 <p align="center">
-  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_powerbi.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nayararv/nayararv/main/images/01_capa_dashboard_estrategico_de_vendas.png" width="100%"/>
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ Projeto de Business Intelligence desenvolvido para análise de desempenho de ven
 Projeto de análise de dados de vendas com SQL, incluindo modelagem de dados, criação de consultas analíticas e geração de insights de negócio.
 
 <p align="center">
-  <img src="https://github.com/nayararv/sql-analise-de-vendas/blob/main/images/capa_projeto_vendas_sql.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nayararv/nayararv/main/images/02_capa_sql-sales-analysis.png" width="100%"/>
 </p>
 
 <p align="center">
