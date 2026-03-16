@@ -109,7 +109,7 @@ Projeto de Business Intelligence desenvolvido para análise de desempenho de ven
 </p>
 
 <p align="center">
-  <a href="https://github.com/nayararv/powerbi-dash-vendas-comercial-">
+  <a href="https://github.com/nayararv/data-analytics-portfolio/tree/main/projects/powerbi-sales-dashboard">
     <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -124,7 +124,7 @@ Projeto de análise de dados de vendas com SQL, incluindo modelagem de dados, cr
 </p>
 
 <p align="center">
-  <a href="https://github.com/nayararv/sql-analise-de-vendas">
+  <a href="https://github.com/nayararv/data-analytics-portfolio/tree/main/projects/sql-sales-analysis">
     <img src="https://img.shields.io/badge/🗄️%20Ver%20Projeto%20SQL-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
