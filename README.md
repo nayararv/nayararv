@@ -23,36 +23,43 @@
 <!-- ===================================================== -->
 <!-- SOBRE MIM                                             -->
 <!-- ===================================================== -->
-## 👩‍💻 Sobre mim
+👩‍💻 Sobre mim
 
-Sou Analista de Dados com foco em **análise, modelagem e visualização de dados**, transformando dados brutos em informações estratégicas para apoiar a tomada de decisão.
+Sou Analista de Dados com foco em análise, modelagem e visualização de dados, transformando dados brutos em informações estratégicas para apoiar decisões de negócio.
 
-Possuo formação em **Engenharia Florestal**, o que fortaleceu minha capacidade analítica, organização e abordagem estruturada na resolução de problemas complexos.
+Tenho experiência em:
 
-Atuo no desenvolvimento de **projetos de análise de dados e Business Intelligence**, desde a estruturação das bases em SQL até a construção de dashboards analíticos em Power BI.
+Estruturação de bases de dados em SQL
 
-Tenho experiência na construção de **dashboards analíticos e executivos**, estruturando modelos de dados e transformando dados em insights que apoiam análises de desempenho e a tomada de decisão.**.
+Modelagem de dados para análise
 
----
+Desenvolvimento de dashboards analíticos em Power BI
 
-### 📊 Especialidades
+Geração de insights para suporte à tomada de decisão
 
-- Análise de Dados  
-- Business Intelligence  
-- Modelagem de Dados  
-- Data Visualization  
-- Análise de Performance de Negócio  
+Minha formação em Engenharia Florestal fortaleceu minha capacidade analítica, organização e abordagem estruturada para resolução de problemas.
 
----
+🧠 Especialidades
 
-### 🎯 Foco de atuação
+Análise de Dados
 
-- Estruturação de bases de dados para análise  
-- Construção de modelos analíticos  
-- Desenvolvimento de dashboards executivos  
-- Transformação de dados em insights para tomada de decisão
+Business Intelligence
 
-<br>
+Modelagem de Dados
+
+Data Visualization
+
+Análise de Performance de Negócio
+
+🎯 Foco de atuação
+
+Estruturação de bases de dados para análise
+
+Construção de modelos analíticos
+
+Desenvolvimento de dashboards executivos
+
+Transformação de dados em insights estratégicos
 
 <!-- ===================================================== -->
 <!-- LINKEDIN                                              -->
