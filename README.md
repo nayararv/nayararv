@@ -23,7 +23,7 @@
 <!-- ===================================================== -->
 <!-- SOBRE MIM                                             -->
 <!-- ===================================================== -->
-👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou Analista de Dados com foco em análise, modelagem e visualização de dados, transformando dados brutos em informações estratégicas para apoiar decisões de negócio.
 
@@ -39,7 +39,7 @@ Geração de insights para suporte à tomada de decisão
 
 Minha formação em Engenharia Florestal fortaleceu minha capacidade analítica, organização e abordagem estruturada para resolução de problemas.
 
-🧠 Especialidades
+## 🧠 Especialidades
 
 Análise de Dados
 
@@ -51,7 +51,7 @@ Data Visualization
 
 Análise de Performance de Negócio
 
-🎯 Foco de atuação
+## 🎯 Foco de atuação
 
 Estruturação de bases de dados para análise
 
