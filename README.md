@@ -101,8 +101,9 @@ Transformação de dados em insights estratégicos
 <!-- ===================================================== -->
 ## 📊 Projetos em Destaque
 
-### 📈 Dashboard Estratégico de Vendas (Power BI)
-Projeto de Business Intelligence desenvolvido para análise de desempenho de vendas, utilizando modelagem de dados e visualização interativa em Power BI.
+### 📈 Dashboard de Performance de Vendas e Promoções (Power BI)
+
+Projeto de Business Intelligence desenvolvido para análise de desempenho de vendas, margem e impacto de promoções, utilizando modelagem de dados e visualizações interativas no Power BI.
 
 <p align="center">
   <img src="https://github.com/nayararv/data-analytics-portfolio/blob/main/projects/dashboard-performance-vendas-promocoes/04_imagens/09_capa_dashboard.png" width="100%"/>
