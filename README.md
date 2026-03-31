@@ -105,11 +105,11 @@ Transformação de dados em insights estratégicos
 Projeto de Business Intelligence desenvolvido para análise de desempenho de vendas, utilizando modelagem de dados e visualização interativa em Power BI.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nayararv/nayararv/main/images/01_capa_dashboard_estrategico_de_vendas.png" width="100%"/>
+  <img src="https://github.com/nayararv/data-analytics-portfolio/blob/main/projects/dashboard-performance-vendas-promocoes/04_imagens/09_capa_dashboard.png" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nayararv/data-analytics-portfolio/tree/main/projects/powerbi-sales-dashboard">
+  <a href="https://github.com/nayararv/data-analytics-portfolio/blob/main/projects/dashboard-performance-vendas-promocoes/README.md">
     <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
